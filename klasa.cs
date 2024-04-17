@@ -10,11 +10,8 @@ namespace Primer002
 
 {
 
-<<<<<<< HEAD
 //neki komentarrrrrrrrrrrrrrrrrrr
-=======
 //neki komentttttttttt
->>>>>>> 87e9b39a3fc98e8a13d6bac237bbb4c358edaa4d
 
 class Student : Osoba
 
