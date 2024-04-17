@@ -10,7 +10,7 @@ namespace Primer002
 
 {
 
-//neki koment
+//neki komentttttttttt
 
 class Student : Osoba
 
