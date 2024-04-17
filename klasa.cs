@@ -11,7 +11,7 @@ namespace Primer002
 {
 
 //neki komentarrrrrrrrrrrrrrrrrrr
-//neki komentttttttttt
+
 
 class Student : Osoba
 
